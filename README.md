@@ -45,13 +45,13 @@ Extract all hashes for users in group `group1` with verbosity
 ```bash
 timesync -u test -p test -d test.local -t group1 -v
 ```
- ![](./images/image_1.png)
+ ![](./images/image1.png)
 
 Extract all hashes for users in domain `test.local`
 ```bash
 timesync -u test -p test -d test.local
 ```
- ![](./images/image_2.png)
+ ![](./images/image2.png)
 
 ## Disclaimer
 
